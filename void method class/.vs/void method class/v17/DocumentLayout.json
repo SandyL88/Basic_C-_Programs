@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\void method class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF437E3-2E29-4F7F-ADF3-12EF2D6D2E31}|void method class\\void method class.csproj|c:\\users\\\u5C0F\u5B9D\u8D1D\\desktop\\basic_c#_programs\\void method class\\void method class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF437E3-2E29-4F7F-ADF3-12EF2D6D2E31}|void method class\\void method class.csproj|solutionrelative:void method class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF437E3-2E29-4F7F-ADF3-12EF2D6D2E31}|void method class\\void method class.csproj|c:\\users\\\u5C0F\u5B9D\u8D1D\\desktop\\basic_c#_programs\\void method class\\void method class\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF437E3-2E29-4F7F-ADF3-12EF2D6D2E31}|void method class\\void method class.csproj|solutionrelative:void method class\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\void method class\\void method class\\MathOperations.cs",
+              "RelativeDocumentMoniker": "void method class\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\void method class\\void method class\\MathOperations.cs",
+              "RelativeToolTip": "void method class\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:48:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\void method class\\void method class\\Program.cs",
+              "RelativeDocumentMoniker": "void method class\\Program.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\void method class\\void method class\\Program.cs",
+              "RelativeToolTip": "void method class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:45:21.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

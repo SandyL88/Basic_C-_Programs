@@ -1,0 +1,7 @@
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\bin\Debug\Iterating Assignment.exe.config
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\bin\Debug\Iterating Assignment.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\bin\Debug\Iterating Assignment.pdb
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\obj\Debug\Iterating Assignment.csproj.AssemblyReference.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\obj\Debug\Iterating Assignment.csproj.CoreCompileInputs.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\obj\Debug\Iterating Assignment.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Iterating Assignment\Iterating Assignment\obj\Debug\Iterating Assignment.pdb

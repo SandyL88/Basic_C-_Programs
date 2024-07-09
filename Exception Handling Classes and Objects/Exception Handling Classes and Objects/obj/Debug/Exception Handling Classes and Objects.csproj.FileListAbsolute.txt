@@ -1,0 +1,7 @@
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\bin\Debug\Exception Handling Classes and Objects.exe.config
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\bin\Debug\Exception Handling Classes and Objects.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\bin\Debug\Exception Handling Classes and Objects.pdb
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\obj\Debug\Exception Handling Classes and Objects.csproj.AssemblyReference.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\obj\Debug\Exception Handling Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\obj\Debug\Exception Handling Classes and Objects.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Exception Handling Classes and Objects\Exception Handling Classes and Objects\obj\Debug\Exception Handling Classes and Objects.pdb
