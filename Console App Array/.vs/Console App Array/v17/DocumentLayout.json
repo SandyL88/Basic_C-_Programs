@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Console App Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCC7808-1731-480E-A76B-E63848932015}|Console App Array\\Console App Array.csproj|c:\\users\\\u5C0F\u5B9D\u8D1D\\desktop\\basic_c#_programs\\console app array\\console app array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCC7808-1731-480E-A76B-E63848932015}|Console App Array\\Console App Array.csproj|solutionrelative:console app array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Console App Array\\Console App Array\\Program.cs",
+              "RelativeDocumentMoniker": "Console App Array\\Program.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Console App Array\\Console App Array\\Program.cs*",
+              "RelativeToolTip": "Console App Array\\Program.cs*",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAkwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T02:24:24.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
