@@ -1,0 +1,7 @@
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe.config
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.pdb
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.AssemblyReference.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.pdb

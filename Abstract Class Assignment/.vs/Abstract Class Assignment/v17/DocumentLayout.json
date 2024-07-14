@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\abstract class assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|solutionrelative:abstract class assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|c:\\users\\\u5C0F\u5B9D\u8D1D\\desktop\\basic_c#_programs\\abstract class assignment\\abstract class assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|solutionrelative:abstract class assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\abstract class assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|solutionrelative:abstract class assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|c:\\users\\\u5C0F\u5B9D\u8D1D\\desktop\\basic_c#_programs\\abstract class assignment\\abstract class assignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E8EC44-FB46-4308-846D-5F2832804FD4}|Abstract Class Assignment\\Abstract Class Assignment.csproj|solutionrelative:abstract class assignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "Abstract Class Assignment\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\IQuittable.cs",
+              "RelativeToolTip": "Abstract Class Assignment\\IQuittable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:10:57.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Abstract Class Assignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\Employee.cs",
+              "RelativeToolTip": "Abstract Class Assignment\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:26:43.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\Person.cs",
+              "RelativeDocumentMoniker": "Abstract Class Assignment\\Person.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\Person.cs",
+              "RelativeToolTip": "Abstract Class Assignment\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:23:18.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Class Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\\u5C0F\u5B9D\u8D1D\\Desktop\\Basic_C#_Programs\\Abstract Class Assignment\\Abstract Class Assignment\\Program.cs",
+              "RelativeToolTip": "Abstract Class Assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:18:16.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

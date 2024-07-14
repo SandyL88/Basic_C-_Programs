@@ -1,0 +1,7 @@
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\bin\Debug\Method and Objects Assignment.exe.config
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\bin\Debug\Method and Objects Assignment.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\bin\Debug\Method and Objects Assignment.pdb
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\obj\Debug\Method and Objects Assignment.csproj.AssemblyReference.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\obj\Debug\Method and Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\obj\Debug\Method and Objects Assignment.exe
+C:\Users\小宝贝\Desktop\Basic_C#_Programs\Method and Objects Assignment\Method and Objects Assignment\obj\Debug\Method and Objects Assignment.pdb
