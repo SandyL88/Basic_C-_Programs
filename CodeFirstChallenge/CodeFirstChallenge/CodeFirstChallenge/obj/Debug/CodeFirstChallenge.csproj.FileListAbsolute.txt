@@ -1,0 +1,12 @@
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.exe.config
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.exe
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.pdb
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.dll
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.xml
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csproj.AssemblyReference.cache
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirs.AF48EE7B.Up2Date
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.exe
+C:\Users\小宝贝\Documents\GitHub\Basic_C#_Programs\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.pdb
